@@ -14,3 +14,10 @@ This spec feature will allow the user to initiate a call with a third-party API 
 ### Stories
 - [ ] [As a user, I want to be able to initiate a call with a third-party API service by providing the necessary parameters.](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/11)
 - [ ] [As a user, I want to be able to view my call logs and their details.](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/13)
+
+## Feature: Spec Feature: Call User with Third Party API
+As a developer, I want to be able to call a user with a third party API, so that I can easily retrieve user information from external sources.
+### Stories
+- [ ] [Call User API Successfully](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/10)
+- [ ] [Handle Error Responses](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/12)
+- [ ] [Ensure Compatibility with Third-Party API](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/14)
