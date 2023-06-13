@@ -29,3 +29,10 @@ As a user, I want to be able to call a third party API through the application.
 - [ ] [User can select HTTP method](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/16)
 - [ ] [User can input request parameters](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/17)
 - [ ] [User can send API request](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/18)
+
+## Feature: View Repos in GitHub Account
+As a user, I want to be able to view all the repositories in my GitHub account, so that I can keep track of my projects.
+### Stories
+- [ ] [Display all repos in user's account](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/19)
+- [ ] [Filter repo list by repository type](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/20)
+- [ ] [Search for a specific repo](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/21)
