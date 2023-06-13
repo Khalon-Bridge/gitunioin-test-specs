@@ -21,3 +21,11 @@ As a developer, I want to be able to call a user with a third party API, so that
 - [ ] [Call User API Successfully](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/10)
 - [ ] [Handle Error Responses](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/12)
 - [ ] [Ensure Compatibility with Third-Party API](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/14)
+
+## Feature: Add Third Party API Call Feature
+As a user, I want to be able to call a third party API through the application.
+### Stories
+- [ ] [User can input API endpoint URL](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/15)
+- [ ] [User can select HTTP method](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/16)
+- [ ] [User can input request parameters](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/17)
+- [ ] [User can send API request](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/18)
