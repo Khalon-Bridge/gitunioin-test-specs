@@ -36,3 +36,11 @@ As a user, I want to be able to view all the repositories in my GitHub account, 
 - [ ] [Display all repos in user's account](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/19)
 - [ ] [Filter repo list by repository type](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/20)
 - [ ] [Search for a specific repo](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/21)
+
+## Feature: GitHub Repositories Viewer
+A feature that allows users to view their repositories on GitHub as stories with acceptance criteria and bounty assigned to each repository.
+### Stories
+- [ ] [View repository list](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/24)
+- [ ] [Filter repositories by name](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/25)
+- [ ] [View repository details](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/26)
+- [ ] [Copy repository URL](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/27)
