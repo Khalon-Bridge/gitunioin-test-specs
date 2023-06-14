@@ -44,3 +44,10 @@ A feature that allows users to view their repositories on GitHub as stories with
 - [ ] [Filter repositories by name](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/25)
 - [ ] [View repository details](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/26)
 - [ ] [Copy repository URL](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/27)
+
+## Feature: Search Listing of Events
+A feature that allows users to search for events and see a list of results based on their query.
+### Stories
+- [ ] [Users can search for events](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/36)
+- [ ] [Search results are sorted by relevance](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/37)
+- [ ] [Users can filter search results](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/38)
