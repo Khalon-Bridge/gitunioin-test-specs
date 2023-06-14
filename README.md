@@ -51,3 +51,10 @@ A feature that allows users to search for events and see a list of results based
 - [ ] [Users can search for events](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/36)
 - [ ] [Search results are sorted by relevance](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/37)
 - [ ] [Users can filter search results](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/38)
+
+## Feature: AI-based Security Detection App and Device
+This app and device use advanced Artificial Intelligence (AI) algorithms to detect and flag security issues in the user's environment.
+### Stories
+- [ ] [Integration with Security Cameras](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/39)
+- [ ] [Integration with Smart Locks](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/40)
+- [ ] [Integration with Motion Sensors](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/41)
