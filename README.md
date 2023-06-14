@@ -67,3 +67,10 @@ An app and device that utilize AI to detect and flag security issues in its envi
 - [ ] [Customizable Alerts](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/44)
 - [ ] [Remote Monitoring](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/45)
 - [ ] [Reporting and Analytics](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/46)
+
+## Feature: AI Security Detector
+An app and device that use AI to detect and flag security issues in its environment
+### Stories
+- [ ] [Detecting Unrecognized Faces](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/47)
+- [ ] [Detecting Unfamiliar Objects](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/48)
+- [ ] [Detecting Anomalies in Network Traffic](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/49)
