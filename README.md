@@ -123,3 +123,10 @@ We want to implement a feature to notify app users when they receive an email in
 - [ ] [Create email notification module](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/69)
 - [ ] [Implement notification settings for email](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/70)
 - [ ] [Design and implement email notification UI](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/71)
+
+## Feature: Email Notification Feature in App
+This feature will allow the users to receive notifications in the app when they receive new emails.
+### Stories
+- [ ] [As a user, I want to receive push notifications in the app when a new email arrives.](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/72)
+- [ ] [As a user, I want to be able to choose the email accounts for which I want to receive push notifications.](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/73)
+- [ ] [As an admin, I want to be able to view the push notification statistics for the email notification feature.](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/74)
