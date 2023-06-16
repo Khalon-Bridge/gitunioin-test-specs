@@ -165,3 +165,10 @@ This feature aims to notify users in the app whenever they receive a new email i
 - [ ] [User receives notification for new email](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/87)
 - [ ] [User can turn on/off email notifications](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/88)
 - [ ] [User can customize email notification settings](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/89)
+
+## Feature: New Feature: City Property Listings
+We want to add a new feature that will allow users to easily search for available properties in their desired cities on our platform. This feature should offer a user-friendly interface that will allow users to view properties by city, filter the results by preferences, and contact property managers directly via the platform.
+### Stories
+- [ ] [City Selector](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/90)
+- [ ] [Filters](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/91)
+- [ ] [Contact Property Managers](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/92)
