@@ -144,3 +144,10 @@ This feature will notify the users when they receive an email in their registere
 - [ ] [Email received notification](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/78)
 - [ ] [Email notification setting](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/79)
 - [ ] [Email notification configuration](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/80)
+
+## Feature: Notification Feature for Emails
+The feature will notify the users in the app when they receive an email. This will improve user engagement and experience.
+### Stories
+- [ ] [As a user, I want to receive an in-app notification when I receive a new email](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/81)
+- [ ] [As an app administrator, I want to be able to enable/disable the email notification feature](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/82)
+- [ ] [As a user, I want to be able to customize my email notification settings](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/83)
