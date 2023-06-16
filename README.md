@@ -95,3 +95,10 @@ An API that collects weather data from a device and publishes to feeds.
 - [ ] [As a user, I want to retrieve current weather data, so that I can know what the weather is like at the moment.](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/57)
 - [ ] [As a user, I want to retrieve historical weather data, so that I can analyze the weather patterns over time.](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/58)
 - [ ] [As a user, I want to receive alerts when the weather conditions change, so that I can be informed of any unexpected weather events.](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/59)
+
+## Feature: Email Notification Feature for App Users
+Add a feature to notify app users when they receive an email in real-time to improve user experience.
+### Stories
+- [ ] [As a user, I want to receive a notification when I get a new email](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/60)
+- [ ] [As a user, I want to be able to turn off email notifications](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/61)
+- [ ] [As an app developer, I want to be able to track notification metrics](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/62)
