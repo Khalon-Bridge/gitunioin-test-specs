@@ -109,3 +109,10 @@ This feature will notify users when they receive an email in the app.
 - [ ] [User can enable email notifications](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/63)
 - [ ] [Email notifications are sent in real-time](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/64)
 - [ ] [User can customize email notifications](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/65)
+
+## Feature: Email Notification Feature
+Develop a feature that notifies app users when they receive new emails
+### Stories
+- [ ] [Email Notification Push Notification](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/66)
+- [ ] [Email Notification Badge Count](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/67)
+- [ ] [Email Notification Sound](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/68)
