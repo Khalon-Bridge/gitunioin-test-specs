@@ -102,3 +102,10 @@ Add a feature to notify app users when they receive an email in real-time to imp
 - [ ] [As a user, I want to receive a notification when I get a new email](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/60)
 - [ ] [As a user, I want to be able to turn off email notifications](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/61)
 - [ ] [As an app developer, I want to be able to track notification metrics](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/62)
+
+## Feature: Email Notification Feature
+This feature will notify users when they receive an email in the app.
+### Stories
+- [ ] [User can enable email notifications](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/63)
+- [ ] [Email notifications are sent in real-time](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/64)
+- [ ] [User can customize email notifications](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/65)
