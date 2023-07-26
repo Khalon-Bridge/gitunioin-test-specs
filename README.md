@@ -172,3 +172,10 @@ We want to add a new feature that will allow users to easily search for availabl
 - [ ] [City Selector](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/90)
 - [ ] [Filters](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/91)
 - [ ] [Contact Property Managers](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/92)
+
+## Feature: Property Listing Feature
+This feature is designed to display property listings and provide detailed information about each property. It will also integrate with hotels.ng for seamless booking experience.
+### Stories
+- [ ] [User can view list of properties](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/94)
+- [ ] [User can click on a property to view details](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/95)
+- [ ] [User can book a property](https://github.com/Khalon-Bridge/gitunioin-test-specs/issues/96)
